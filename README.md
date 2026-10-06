@@ -1,9 +1,15 @@
-# slashnv
+# /nv
 
-## Setup
+An incredibly simple and lightweight Minecraft fabric mod allowing you to use /nv to give yourself infinite night vision.
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+## Installation
+
+Simply drag the mod to your server's mods folder, and it should work.
 
 ## License
 
 This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+
+## Future updates
+
+- Make night vision persistent to death or losing the effect
